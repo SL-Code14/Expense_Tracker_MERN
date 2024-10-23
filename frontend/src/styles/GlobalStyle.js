@@ -18,7 +18,7 @@ export const GlobalStyle = createGlobalStyle`
     }
 
      body{
-        background-color: red;
+        // background-color: red;
         font-family: 'Nunito', sans-serif;
         font-size: clamp(1rem, 1.5vw, 1.2rem);
         overflow: hidden;
